@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pixabay-image-finder/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/pixabay-image-finder/static/js/main.2f909a7a.chunk.js",
+    "main.js.map": "/pixabay-image-finder/static/js/main.2f909a7a.chunk.js.map",
+    "runtime-main.js": "/pixabay-image-finder/static/js/runtime-main.b90fd708.js",
+    "runtime-main.js.map": "/pixabay-image-finder/static/js/runtime-main.b90fd708.js.map",
+    "static/js/2.5ab98d0c.chunk.js": "/pixabay-image-finder/static/js/2.5ab98d0c.chunk.js",
+    "static/js/2.5ab98d0c.chunk.js.map": "/pixabay-image-finder/static/js/2.5ab98d0c.chunk.js.map",
+    "static/js/3.ad684775.chunk.js": "/pixabay-image-finder/static/js/3.ad684775.chunk.js",
+    "static/js/3.ad684775.chunk.js.map": "/pixabay-image-finder/static/js/3.ad684775.chunk.js.map",
+    "static/js/4.25c0c0ea.chunk.js": "/pixabay-image-finder/static/js/4.25c0c0ea.chunk.js",
+    "static/js/4.25c0c0ea.chunk.js.map": "/pixabay-image-finder/static/js/4.25c0c0ea.chunk.js.map",
+    "index.html": "/pixabay-image-finder/index.html",
+    "precache-manifest.3c344fe66ef196e7928f1a16aa5282ac.js": "/pixabay-image-finder/precache-manifest.3c344fe66ef196e7928f1a16aa5282ac.js",
+    "service-worker.js": "/pixabay-image-finder/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/pixabay-image-finder/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.5ab98d0c.chunk.js.LICENSE.txt": "/pixabay-image-finder/static/js/2.5ab98d0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b90fd708.js",
+    "static/js/2.5ab98d0c.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.2f909a7a.chunk.js"
+  ]
+}
